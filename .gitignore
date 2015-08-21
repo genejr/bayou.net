@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+node_modules
+media/*
+*.sublime-*
+app/private/version.json
+mup.json
+mup.json.demo
+mup.json.www
